@@ -1,4 +1,4 @@
-# godot-plugin-refresher
+# godot-plugin-refresher (Godot 4.* Update)
 
 This plugin simplifies plugin development for those wanting to make tools for the Godot Editor.
 
